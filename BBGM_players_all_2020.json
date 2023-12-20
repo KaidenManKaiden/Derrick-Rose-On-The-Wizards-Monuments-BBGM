@@ -1,0 +1,178 @@
+{
+  "version": 58,
+  "players": [
+    {
+      "pid": 351,
+      "pos": "PG",
+      "college": "Memphis",
+      "born": {
+        "year": 1997,
+        "loc": "Illinois, USA"
+      },
+      "weight": 200,
+      "hgt": 75,
+      "tid": 9,
+      "imgURL": "/img/blank-face.png",
+      "real": true,
+      "draft": {
+        "tid": -1,
+        "originalTid": -1,
+        "round": 0,
+        "pick": 0,
+        "year": 2019,
+        "skills": [],
+        "pot": 0,
+        "ovr": 0
+      },
+      "ratings": [
+        {
+          "hgt": 36,
+          "stre": 73,
+          "spd": 79,
+          "jmp": 84,
+          "endu": 72,
+          "ins": 65,
+          "dnk": 58,
+          "ft": 66,
+          "fg": 74,
+          "tp": 45,
+          "diq": 44,
+          "oiq": 63,
+          "drb": 80,
+          "pss": 83,
+          "reb": 57,
+          "season": 2020,
+          "pos": "PG",
+          "fuzz": 0.29928658660253205,
+          "skills": [
+            "A",
+            "B",
+            "Dp",
+            "Ps",
+            "V"
+          ],
+          "ovr": 69,
+          "pot": 74
+        }
+      ],
+      "stats": [
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 9,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "pm100": 0,
+          "onOff100": 0,
+          "dws": 0,
+          "ows": 0,
+          "obpm": 0,
+          "dbpm": 0,
+          "vorp": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "minAvailable": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0,
+          "dd": 0,
+          "td": 0,
+          "qd": 0,
+          "fxf": 0,
+          "minMax": null,
+          "fgMax": null,
+          "fgaMax": null,
+          "tpMax": null,
+          "tpaMax": null,
+          "ftMax": null,
+          "ftaMax": null,
+          "pmMax": null,
+          "orbMax": null,
+          "drbMax": null,
+          "astMax": null,
+          "tovMax": null,
+          "stlMax": null,
+          "blkMax": null,
+          "baMax": null,
+          "pfMax": null,
+          "ptsMax": null,
+          "2pMax": null,
+          "2paMax": null,
+          "trbMax": null,
+          "gmscMax": null,
+          "jerseyNumber": "1"
+        }
+      ],
+      "injury": {
+        "type": "Healthy",
+        "gamesRemaining": 0
+      },
+      "contract": {
+        "amount": 6000,
+        "exp": 2023
+      },
+      "salaries": [
+        {
+          "season": 2020,
+          "amount": 6000
+        },
+        {
+          "season": 2021,
+          "amount": 6000
+        },
+        {
+          "season": 2022,
+          "amount": 6000
+        },
+        {
+          "season": 2023,
+          "amount": 6000
+        }
+      ],
+      "awards": [],
+      "jerseyNumber": "1",
+      "retiredYear": null,
+      "srID": "rosede01",
+      "firstName": "Derrick",
+      "lastName": "Rose 2011",
+      "injuries": [],
+      "moodTraits": [
+        "$",
+        "W"
+      ],
+      "relatives": [],
+      "exportedSeason": 2020
+    }
+  ],
+  "startingSeason": 2020
+}
